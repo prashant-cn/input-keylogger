@@ -144,7 +144,7 @@ keylogger.start((key, isKeyUp, keyCode) => {
     // }
 });
 
-module.export = {
+module.exports = {
     logEverything,
     logStatements
 } 
