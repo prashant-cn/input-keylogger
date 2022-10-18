@@ -1,5 +1,5 @@
 {
-  "name": "keylogger",
+  "name": "@prashant_cn/input-keylogger",
   "version": "1.0.0",
   "description": "Logging inputs from users Input Devices",
   "main": "src/app.js",
@@ -10,7 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "control-modifier-keys": "^1.0.3",
-    "keylogger.js": "^0.0.4",
-    "nodemon": "^2.0.20"
-  }
+    "keylogger.js": "^0.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-cn/input-keylogger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prashant-cn/input-keylogger/issues"
+  },
+  "homepage": "https://github.com/prashant-cn/input-keylogger#readme"
 }
