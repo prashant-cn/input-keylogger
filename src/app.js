@@ -40,7 +40,8 @@ const logEverything = () => {
                 key = key.toLowerCase('/^[a-zA-Z]*$/')
             }
             //word.push(key)
-            return { key, keyCode, isKeyUp }
+            console.log({ key, keyCode, isKeyUp });
+            //return { key, keyCode, isKeyUp }
         }
     });
 }
@@ -88,10 +89,10 @@ const logStatements = () => {
 
         let withoutCommas = word.join('')
         if (keyCode === 13) {
-            //console.log(`Word is ${withoutCommas}`);
+            console.log(`${withoutCommas}`);
             word = []
         }
-        return withoutCommas
+        //return withoutCommas
     });
 }
 

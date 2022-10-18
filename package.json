@@ -1,6 +1,6 @@
 {
   "name": "@prashant_cn/input-keylogger",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Logging inputs from users Input Devices",
   "main": "src/app.js",
   "scripts": {
