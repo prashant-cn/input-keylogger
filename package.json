@@ -1,6 +1,6 @@
 {
   "name": "@prashant_cn/input-keylogger",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Logging inputs from users Input Devices",
   "main": "src/app.js",
   "scripts": {
@@ -16,6 +16,19 @@
     "type": "git",
     "url": "git+https://github.com/prashant-cn/input-keylogger.git"
   },
+  "keywords": [
+    "input logger",
+    "input keylogger",
+    "keylogger",
+    "input",
+    "logger",
+    "keypress",
+    "keystrokes",
+    "windows",
+    "macos",
+    "log to file",
+    "keylog to file"
+  ],
   "bugs": {
     "url": "https://github.com/prashant-cn/input-keylogger/issues"
   },
